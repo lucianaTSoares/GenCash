@@ -28,6 +28,6 @@ O GenCash é um sistema desenvolvido em console que fornece serviços como saque
     <td align="center"><a href="https://github.com/Aristaque"><img src="https://avatars.githubusercontent.com/u/98294862?v=4" width="100px" alt="github avatar"><br><sub>Jeferson Aristaque</sub></a></td>
     <td align="center"><a href="https://github.com/Sam-S-Pina"><img src="https://avatars.githubusercontent.com/u/84543096?s=200&v=4" width="100px" alt="github avatar"><br><sub>Samuel S. Pina</sub></a></td>
     <td align="center"><a href="https://github.com/tamara-augusta"><img src="https://avatars.githubusercontent.com/u/98351359?v=4" width="100px" alt="github avatar"><br><sub>Tamara Augusta</sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/gabriela-federmann-566691a6/"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGGGHn2QIFIQg/profile-displayphoto-shrink_200_200/0/1642190432410?e=1649894400&v=beta&t=AsRzyJwI0wq6Jay3f7qxn4t-QNF6Wxyp-u9ye9XuB9M" width="100px" alt="github avatar"><br><sub>Gabriela Federmann</sub></a></td>
+    <td align="center"><a href="https://github.com/gabrielafedermann"><img src="https://avatars.githubusercontent.com/u/97420467?v=4" width="100px" alt="github avatar"><br><sub>Gabriela Federmann</sub></a></td>
   </tr>
 <table>
